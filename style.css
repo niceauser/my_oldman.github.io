@@ -1,7 +1,8 @@
 
 body {
     background-image: url("./images/hd-wallpaper-863139.jpg");
-   width:auto;
+   max-width:auto;
+    height:auto;
     background-size:     cover;                     
     background-repeat:   no-repeat;
     background-position: center center;   
