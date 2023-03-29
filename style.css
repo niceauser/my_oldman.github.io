@@ -1,9 +1,12 @@
 
 body {
-    background-image: url("./images/hd-wallpaper-863139.jpg");
+    background: url("./images/hd-wallpaper-863139.jpg");
     background-size:     auto;                     
     background-repeat:   no-repeat;
-    background-position: center center;   
+    background-position: center center;  
+    
+    
+
    }
 .flex-container {
     width: 100%;
